@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:hilt-android:2.37@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/4720d8cb19b7fdbc1b6c5b67004b7ede/hilt-android-2.37/res" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9612d35c2ef4e22a8cb62490ed0e32cc/jetified-hilt-android-2.37/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.37/9462e156cd8e695d768108ce6c62033163c05629/hilt-android-2.37-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.37/9462e156cd8e695d768108ce6c62033163c05629/hilt-android-2.37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.37/227dc9504f0ea1f46089c1e82817dd0590cfc51b/hilt-android-2.37-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.37/227dc9504f0ea1f46089c1e82817dd0590cfc51b/hilt-android-2.37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

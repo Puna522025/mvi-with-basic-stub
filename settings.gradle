@@ -1,0 +1,4 @@
+rootProject.name = "android-sample-mvi"
+include ':app'
+include ':android-sample-mvi-network'
+include ':android-sample-mvi-ui'

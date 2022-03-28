@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="android-sample-mvi-ui/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="android-sample-mvi-ui/src/main/res/layout/fragment_environment_selector.xml" value="0.2265625" />
+        <entry key="android-sample-mvi-ui/src/main/res/layout/item_environment_selector.xml" value="0.2265625" />
+        <entry key="app/src/qa/res/layout/fragment_environment_selector.xml" value="0.18645833333333334" />
+        <entry key="app/src/qa/res/layout/item_environment_selector.xml" value="0.18645833333333334" />
+        <entry key="tide-spacex-ui/src/main/res/layout/base_activity.xml" value="0.1" />
+        <entry key="tide-spacex-ui/src/main/res/layout/rocket_details_fragment.xml" value="0.13134057971014493" />
+        <entry key="tide-spacex-ui/src/main/res/layout/rockets_list_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="tide-android-spacex.tide-spacex-ui" />
+      </set>
+    </option>
+  </component>
+</project>

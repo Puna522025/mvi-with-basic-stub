@@ -1,0 +1,91 @@
+com/androidmvi/spacex/ui/fragments/RocketListFragment_MembersInjector.java
+ com.androidmvi.spacex.ui.fragments.RocketListFragment_MembersInjector
+com/androidmvi/spacex/ui/injection/ViewModelKey.java
+ com.androidmvi.spacex.ui.injection.ViewModelKey
+com/com/androidmvi/spacex/ui/BuildConfig.java
+ com.com.androidmvi.spacex.ui.BuildConfig
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_fragments_RocketDetailsFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_fragments_RocketDetailsFragment_GeneratedInjector
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_viewmodel_EnvironmentFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_viewmodel_EnvironmentFragment_GeneratedInjector
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_MainActivity_GeneratedInjector
+com/androidmvi/spacex/ui/fragments/Hilt_RocketDetailsFragment.java
+ com.androidmvi.spacex.ui.fragments.Hilt_RocketDetailsFragment
+com/androidmvi/spacex/ui/fragments/RocketListFragment_GeneratedInjector.java
+ com.androidmvi.spacex.ui.fragments.RocketListFragment_GeneratedInjector
+com/androidmvi/spacex/ui/viewmodel/Environment.java
+ com.androidmvi.spacex.ui.viewmodel.Environment
+com/com/androidmvi/spacex/ui/databinding/SplashFragmentBinding.java
+ com.com.androidmvi.spacex.ui.databinding.SplashFragmentBinding
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_injection_ViewModuleInjects.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_injection_ViewModuleInjects
+com/androidmvi/spacex/ui/viewmodel/EnvironmentFragment_MembersInjector.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironmentFragment_MembersInjector
+com/androidmvi/spacex/ui/fragments/Hilt_SplashFragment.java
+ com.androidmvi.spacex.ui.fragments.Hilt_SplashFragment
+com/com/androidmvi/spacex/ui/databinding/FragmentEnvironmentSelectorBinding.java
+ com.com.androidmvi.spacex.ui.databinding.FragmentEnvironmentSelectorBinding
+com/com/androidmvi/spacex/ui/databinding/RocketsListFragmentBinding.java
+ com.com.androidmvi.spacex.ui.databinding.RocketsListFragmentBinding
+com/com/androidmvi/spacex/ui/databinding/RocketsListItemBinding.java
+ com.com.androidmvi.spacex.ui.databinding.RocketsListItemBinding
+com/androidmvi/spacex/ui/fragments/SplashFragment_GeneratedInjector.java
+ com.androidmvi.spacex.ui.fragments.SplashFragment_GeneratedInjector
+com/androidmvi/spacex/ui/fragments/RocketDetailsFragment_MembersInjector.java
+ com.androidmvi.spacex.ui.fragments.RocketDetailsFragment_MembersInjector
+com/androidmvi/spacex/ui/viewmodel/EnvironmentFragment.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironmentFragment
+com/androidmvi/spacex/ui/viewmodel/EnvironnmentViewModel.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel$1
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel$2
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel$3
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel$3$1
+com/com/androidmvi/spacex/ui/databinding/ItemEnvironmentSelectorBinding.java
+ com.com.androidmvi.spacex.ui.databinding.ItemEnvironmentSelectorBinding
+com/androidmvi/spacex/ui/Hilt_MainActivity.java
+ com.androidmvi.spacex.ui.Hilt_MainActivity
+ com.androidmvi.spacex.ui.Hilt_MainActivity$1
+com/androidmvi/spacex/ui/viewmodel/RocketListViewModel_Factory.java
+ com.androidmvi.spacex.ui.viewmodel.RocketListViewModel_Factory
+com/androidmvi/spacex/ui/injection/ViewModuleInjects_RocketDetailsViewModelFactory.java
+ com.androidmvi.spacex.ui.injection.ViewModuleInjects_RocketDetailsViewModelFactory
+com/com/androidmvi/spacex/ui/databinding/RocketDetailsFragmentBinding.java
+ com.com.androidmvi.spacex.ui.databinding.RocketDetailsFragmentBinding
+com/com/androidmvi/spacex/ui/databinding/BaseActivityBinding.java
+ com.com.androidmvi.spacex.ui.databinding.BaseActivityBinding
+com/androidmvi/spacex/ui/fragments/Hilt_RocketListFragment.java
+ com.androidmvi.spacex.ui.fragments.Hilt_RocketListFragment
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_fragments_RocketListFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_fragments_RocketListFragment_GeneratedInjector
+com/androidmvi/spacex/ui/injection/ViewModuleInjects_EnvironnmentViewModelFactory.java
+ com.androidmvi.spacex.ui.injection.ViewModuleInjects_EnvironnmentViewModelFactory
+ com.androidmvi.spacex.ui.injection.ViewModuleInjects_EnvironnmentViewModelFactory$InstanceHolder
+com/androidmvi/spacex/ui/injection/ViewModuleInjects_RocketListViewModelFactory.java
+ com.androidmvi.spacex.ui.injection.ViewModuleInjects_RocketListViewModelFactory
+hilt_aggregated_deps/_com_androidmvi_spacex_ui_fragments_SplashFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_androidmvi_spacex_ui_fragments_SplashFragment_GeneratedInjector
+com/androidmvi/spacex/ui/fragments/RocketDetailsFragment_GeneratedInjector.java
+ com.androidmvi.spacex.ui.fragments.RocketDetailsFragment_GeneratedInjector
+com/androidmvi/spacex/ui/viewmodel/RocketDetailsViewModel_Factory.java
+ com.androidmvi.spacex.ui.viewmodel.RocketDetailsViewModel_Factory
+com/androidmvi/spacex/ui/injection/CustomViewModelFactory_Factory.java
+ com.androidmvi.spacex.ui.injection.CustomViewModelFactory_Factory
+com/androidmvi/spacex/ui/viewmodel/EnvironmentGroup.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironmentGroup
+com/androidmvi/spacex/ui/viewmodel/Hilt_EnvironmentFragment.java
+ com.androidmvi.spacex.ui.viewmodel.Hilt_EnvironmentFragment
+com/androidmvi/spacex/ui/MainActivity_GeneratedInjector.java
+ com.androidmvi.spacex.ui.MainActivity_GeneratedInjector
+com/androidmvi/spacex/ui/viewmodel/EnvironmentFragment_GeneratedInjector.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironmentFragment_GeneratedInjector
+com/com/androidmvi/spacex/ui/databinding/RocketLaunchDetailsItemBinding.java
+ com.com.androidmvi.spacex.ui.databinding.RocketLaunchDetailsItemBinding
+com/androidmvi/spacex/ui/viewmodel/EnvironmentSelectorAdapter.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironmentSelectorAdapter
+com/androidmvi/spacex/ui/viewmodel/EnvironnmentViewModel_Factory.java
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel_Factory
+ com.androidmvi.spacex.ui.viewmodel.EnvironnmentViewModel_Factory$InstanceHolder
+com/com/androidmvi/spacex/ui/databinding/RocketLaunchDetailsHeaderBinding.java
+ com.com.androidmvi.spacex.ui.databinding.RocketLaunchDetailsHeaderBinding

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SpaceX</string>
+    <string name="list_rocket_name">Name - %1$s</string>
+    <string name="list_rocket_country_name">Country - %1$s</string>
+    <string name="list_rocket_engine_count">Engine Count - %1$d</string>
+    <string name="error_failure">Failed to fetch the data !! Please try after some time.</string>
+    <string name="error_failure_unknown">Unable to connect!! Please try after some time.</string>
+    <string name="dialog_title">Welcome to SpaceX</string>
+    <string name="dialog_message">Its good to have you. You are about to witness all the exciting SpaceX rockets.</string>
+    <string name="positive_button_text">Let\'s Go!!</string>
+    <string name="key_first_launch">FIRST_LAUNCH</string>
+    <string name="filter">Filter</string>
+    <string name="error_failure_launch_details">Unable to load launch details !! Please try another rocket.</string>
+    <string name="mission_name">Mission Name - %1$s</string>
+    <string name="launch_date">Launch Date - %1$s</string>
+    <string name="mission_success">Mission Successful - %1$s</string>
+    <string name="refresh">Refresh</string>
+    <string name="rocket_list_screen_title">SpaceX Rockets</string>
+    <string name="rocket_details_screen_title">SpaceX Rocket Details</string>
+
+    <string-array name="rocket_status">
+        <item>All</item>
+        <item>Active</item>
+        <item>InActive</item>
+    </string-array>
+
+    <string name="env_details">Enter url details</string>
+    <string name="env_details_cdc">CDC set up</string>
+    <string name="env_details_cdc_button">CDC set up</string>
+    <string name="stub_env_details">Enter Stub name</string>
+    <string name="stub_env">Stubs</string>
+    <string name="stub_env_button">Submit</string>
+    <string name="stub_env_selector_text">Success</string>
+</resources>

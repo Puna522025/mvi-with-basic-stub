@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+apply from: '../root.gradle'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion androidTargetSdkVersion
+    buildToolsVersion androidBuildToolsVersion
+
+    defaultConfig {
+        applicationId "com.tide.spacex"
+        minSdkVersion androidMinSdkVersion
+        targetSdkVersion androidTargetSdkVersion
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    productFlavors {
+        qa {
+            applicationIdSuffix '.qaBuildType'
+            buildConfigField 'String', 'URL_CONFIG_FILE', '"url_test_config.json"'
+        }
+        prod {
+            applicationIdSuffix '.prod'
+            buildConfigField 'String', 'URL_CONFIG_FILE', '"url_prod_config.json"'
+        }
+    }
+
+    publishNonDefault true
+
+    flavorDimensions "app"
+
+    sourceSets {
+        qa {
+            assets.srcDirs += ["${project.rootDir}/android-stub/stub/"]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: "libs", include: ["*.jar"])
+    api project(':android-sample-mvi-ui')
+
+
+    api "com.google.dagger:hilt-android:${hilt_version}"
+    kapt "com.google.dagger:hilt-compiler:${hilt_version}"
+    kapt "com.google.dagger:hilt-android-compiler:${hilt_version}"
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/puneetkapoor/AndroidStudioProjects/MVI projects/android-sample-mvi/app/build/intermediates/incremental/mergeQaDebugResources/merged.dir/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/puneetkapoor/.gradle/caches/transforms-2/files-2.1/1e85536441f41c9cd2b18e6330b2e47a/material-1.4.0/res/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "name": "STUB",
+    "environments": [
+      {
+        "name": "All-Success",
+        "servers": [
+          {
+            "name": "Success",
+            "authUrl": "https://STUB/",
+            "section": "",
+            "code": 200,
+            "endPointPath": "/"
+          }
+        ]
+      },
+      {
+        "name": "Get Rockets",
+        "path": "v4/rockets",
+        "method": "get",
+        "servers": [
+          {
+            "name": "Get Rockets - No Rockets Available",
+            "authUrl": "https://STUB/",
+            "section": "noRocketsAvailable",
+            "code": 400,
+            "endPointPath": "/v4/rockets"
+          },
+          {
+            "name": "Get Rockets - Error Invalid User Account",
+            "authUrl": "https://STUB/",
+            "section": "invalidUser",
+            "code": 400,
+            "endPointPath": "/v4/rockets"
+          },
+          {
+            "name": "Get Rockets - Too many attempts",
+            "authUrl": "https://STUB/",
+            "section": "tooManyAttempts",
+            "code": 400,
+            "endPointPath": "/v4/rockets"
+          },
+          {
+            "name": "Get Rockets - Bad request",
+            "authUrl": "https://STUB/",
+            "section": "badRequest",
+            "code": 400,
+            "endPointPath": "/v4/rockets"
+          },
+          {
+            "name": "Get Rockets - Error",
+            "authUrl": "https://STUB/",
+            "section": "error",
+            "code": 400,
+            "endPointPath": "/v4/rockets"
+          }
+        ]
+      },
+      {
+        "name": "Login",
+        "path": "/authenticate",
+        "method": "post",
+        "servers": [
+          {
+            "name": "Login - Authentication Failed",
+            "authUrl": "https://STUB/",
+            "section": "authenticationFailed",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          },
+          {
+            "name": "Login - Too many attempts",
+            "authUrl": "https://STUB/",
+            "section": "tooManyAttempts",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          },
+          {
+            "name": "Login - Bad request",
+            "authUrl": "https://STUB/",
+            "section": "badRequest",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          },
+          {
+            "name": "Login - Bad 200 Response",
+            "authUrl": "https://STUB/",
+            "section": "bad200",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          },
+          {
+            "name": "Login - Bad 401 Response",
+            "authUrl": "https://STUB/",
+            "section": "bad401",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          },
+          {
+            "name": "Android Login - Force Update",
+            "authUrl": "https://STUB/",
+            "section": "forceUpdateAndroid",
+            "code": 400,
+            "endPointPath": "/authenticate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ENVIRONMENTS",
+    "environments": [
+      {
+        "name": "SIT",
+        "servers": [
+          {
+            "name": "SIT01",
+            "clientId": "56914ea1-9d3b-41a6-bf65-62f361d45cdb",
+            "authUrl": "https://api.spacexdata.com/v4/"
+          },
+          {
+            "name": "SIT02",
+            "clientId": "56914ea1-9d3b-41a6-bf65-62f361d45cdb",
+            "authUrl": "https://api.spacexdata.com/v4/"
+          }
+        ]
+      }
+    ]
+  }
+]
+
